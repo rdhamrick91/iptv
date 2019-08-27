@@ -1,3 +1,66 @@
 #EXTM3U
 #EXTINF:-1,ABC HD
-http://123tvnow.com/watch/abc/
+https://mwdev2.igocast.com/proxy?https://190.80.3.28/ABC/ABC.isml/index.m3u8
+#EXTINF:-1,CBS HD
+https://mwdev2.igocast.com/proxy?https://190.80.3.28/CBS/CBS.isml/index.m3u8
+#EXTINF:-1,FOX HD
+https://mwdev2.igocast.com/proxy?https://190.80.3.28/FOX/FOX.isml/index.m3u8
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/UFCFIGHTPASS.png" group-title="Without category", US - UFC FIGHT PASS
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34750
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/UK/NICKHD.png" group-title="Without category", USA VIP - NICK HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/43625
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/TEENNICK.png" group-title="Without category", US - TEEN NICK
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34854
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/ANIMALPLANETFHD.png" group-title="Without category", US - ANIMAL PLANET HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34850
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/HISTORYFHD.png" group-title="Without category", US - HISTORY HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34842
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/MTVFHD.png" group-title="Without category", US - MTV HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34793
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/FXFHD.png" group-title="Without category", US - FX HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34907
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/AMCHD.png" group-title="Without category", US - AMC HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34914
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/USANETWORK.png" group-title="Without category", US - USA NETWORK
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34870
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/TBSHD.png" group-title="Without category", US - TBS
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34882
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/NBC.png" group-title="Without category", US - NBC HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34765
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/FOXHD.png" group-title="Without category", US - FOX HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34815
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/STARZHD.png" group-title="Without category", USA VIP - Starz HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/43614
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/STARZCOMEDY.png" group-title="Without category", US - STARZ COMEDY
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34927
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/STARZHD.png" group-title="Without category", USA VIP - STAR EDGE  HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/43615
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/STARZHD.png" group-title="Without category", USA VIP - STARZ EAST HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/43616
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/SHOWTIME.png" group-title="Without category", US - SHOWTIME HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34931
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/SHOWTIMEFHD.png" group-title="Without category", US - SHOWTIME EXTREME
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34932
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/SHOWTIME2.png" group-title="Without category", US - SHOWTIME 2
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34933
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/EPIX2.png" group-title="Without category", US - EPIX
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34936
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/CINEMAXFHD.png" group-title="Without category", US - CINEMAX THRILLERMAX HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34937
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/CINEMAXOUTERMAX.png" group-title="Without category", US - CINEMAX OUTER MAX
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34938
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/CINEMAXMOREMAX.png" group-title="Without category", US - CINEMAX MORE MAX
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34940
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/CINEMAXFHD.png" group-title="Without category", US - CINEMAX HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34941
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/CINEMAXACTIONMAX.png" group-title="Without category", US - CINEMAX ACTION MAX
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34942
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/HBO.png" group-title="Without category", US - HBO HD 1
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34947
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/HBOFAMILYFHD.png" group-title="Without category", US - HBO FAMILY
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34949
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/HBOCOMEDY.png" group-title="Without category", US - HBO COMEDY HD
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/34950 
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/USA/UFC.png" group-title="Without category", PPV SD : UFC
+http://tptv.cz:80/psN1yjtxIr/vDclqvBTdd/43707
+ 
